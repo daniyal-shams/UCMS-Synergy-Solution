@@ -11,6 +11,8 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 import java.util.UUID;
 
+import com.nexora.synergy.nexora.domain.repository.TenantRepository;
+
 @Service
 public class TenantProvisioningServiceImpl implements TenantProvisioningService {
 
