@@ -2,7 +2,6 @@ package com.nexora.synergy.Onboarding.saga;
 
 import org.springframework.statemachine.StateMachine;
 import org.springframework.stereotype.Component;
-import 
 
 @Component
 public class OnboardingOrchestrator {

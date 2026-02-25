@@ -3,7 +3,7 @@ package com.nexora.synergy.Onboarding.listener;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
-import com.nexora.synergy.provisioning.TenantProvisioningService;
+import com.zappschool.provisioning.TenantProvisioningService;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
